@@ -1,0 +1,2 @@
+The num is 22
+fprintf used to write over a file and fscanf for taking input from a file
