@@ -1,2 +1,0 @@
-name1 = shakib,2200
-name2 = absar,1122
