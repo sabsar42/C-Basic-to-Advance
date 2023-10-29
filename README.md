@@ -6,7 +6,7 @@ Welcome to my C programming repository, where you'll find everything you need to
 #Topics Covered
 
 
-1.Variables and Data Types, Constant, Keywords
+1.Variables and Data Types, Constant, Keywords\n
 2.Instruction & Operators
 3.Control Instructions (if-else,Switch)
 4.Loop Control instructions
