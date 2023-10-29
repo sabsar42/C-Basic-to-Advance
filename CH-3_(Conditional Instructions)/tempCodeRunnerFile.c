@@ -1,1 +1,0 @@
-  // printf("enter num of a");
