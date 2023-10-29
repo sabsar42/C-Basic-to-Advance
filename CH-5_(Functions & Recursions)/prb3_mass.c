@@ -1,0 +1,15 @@
+#include<stdio.h>
+float force(float mass);
+
+int main(){
+    float m;
+    printf("enter m=\n");
+    scanf("%f",&m);
+    printf("the force is=%f\n",force(m));
+    
+    return 0;
+}
+float force(float mass){
+    float result = mass*9.8;
+    return result;
+}
